@@ -6,9 +6,9 @@ This repository has 5 python notebooks and saved files created by running these 
 
 ### data folder 
 Contains csv files generated in part 1 and 2 notebooks
-1. vancouver_restaurants.csv - contains data about vancouver restuarant business - attached
-2. vancouver_restaurants_reviews.csv - contains data about reviews related to restaurants in vancouver - could not attach because of size
-3. vancouver_restaurants_tip.csv - could not attach because of size
+1. Tampa_restaurants.csv - contains data about vancouver restuarant business - attached
+2. Tampa_restaurants_reviews.csv - contains data about reviews related to restaurants in vancouver - could not attach because of size
+3. Tampa_restaurants_tip.csv - could not attach because of size
 4. restaurants_final.csv - contains the final dataset on which model will be trained and evaluated - attached 
 
 ### input folder
